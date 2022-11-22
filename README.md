@@ -19,7 +19,7 @@ Personal Info
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saksham-tripathi//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahultanwar05/" height="30" width="40" /></a>
-<a href="https://hackerank.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.hackerrank.com/sakshamt1808?hr_r=1" height="30" width="40" /></a>
+<a href="https://hackerank.com/in/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="https://www.hackerrank.com/sakshamt1808?hr_r=1" height="30" width="40" /></a>
 
 </p>
 
